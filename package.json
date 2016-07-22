@@ -1,0 +1,27 @@
+{
+  "name": "wow-itemstring",
+  "version": "1.0.0",
+  "description": "Consume and manipulate World of Warcraft itemstrings",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoBreaks/wow-itemstring.git"
+  },
+  "keywords": [
+    "wow",
+    "warcraft",
+    "itemstring"
+  ],
+  "author": "Jason Smylnycky <jason784@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.4.7"
+  },
+  "bugs": {
+    "url": "https://github.com/NoBreaks/wow-itemstring/issues"
+  },
+  "homepage": "https://github.com/NoBreaks/wow-itemstring#readme"
+}

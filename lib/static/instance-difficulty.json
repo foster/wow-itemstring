@@ -1,0 +1,129 @@
+{
+  "instanceDifficulty": [
+    {
+      "id": 0,
+      "name": "None; not in an Instance",
+      "key": ""
+    },
+    {
+      "id": 1,
+      "name": "5-player Instance",
+      "key": ""
+    },
+    {
+      "id": 2,
+      "name": "5-player Heroic Instance",
+      "key": ""
+    },
+    {
+      "id": 3,
+      "name": "10-player Raid Instance",
+      "key": ""
+    },
+    {
+      "id": 4,
+      "name": "25-player Raid Instance",
+      "key": "raid-normal"
+    },
+    {
+      "id": 5,
+      "name": "10-player Heroic Raid Instance",
+      "key": "raid-heroic"
+    },
+    {
+      "id": 6,
+      "name": "25-player Heroic Raid Instance",
+      "key": "raid-mythic"
+    },
+    {
+      "id": 7,
+      "name": "25-player Raid Finder Instance",
+      "key": ""
+    },
+    {
+      "id": 8,
+      "name": "Challenge Mode Instance",
+      "key": ""
+    },
+    {
+      "id": 9,
+      "name": "40-player Raid Instance",
+      "key": ""
+    },
+    {
+      "id": 10,
+      "name": "Not used",
+      "key": ""
+    },
+    {
+      "id": 11,
+      "name": "Heroic Scenario Instance",
+      "key": ""
+    },
+    {
+      "id": 12,
+      "name": "Scenario Instance",
+      "key": ""
+    },
+    {
+      "id": 13,
+      "name": "Not used",
+      "key": ""
+    },
+    {
+      "id": 14,
+      "name": "10-30-player Normal Raid Instance",
+      "key": ""
+    },
+    {
+      "id": 15,
+      "name": "10-30-player Heroic Raid Instance",
+      "key": ""
+    },
+    {
+      "id": 16,
+      "name": "20-player Mythic Raid Instance",
+      "key": ""
+    },
+    {
+      "id": 17,
+      "name": "10-30-player Raid Finder Instance",
+      "key": ""
+    },
+    {
+      "id": 18,
+      "name": "40-player Event raid (Used by the level 100 version of Molten Core for WoW's 10th anniversary)",
+      "key": ""
+    },
+    {
+      "id": 19,
+      "name": "5-player Event instance (Used by the level 90 version of UBRS at WoD launch)",
+      "key": ""
+    },
+    {
+      "id": 20,
+      "name": "25-player Event scenario (unknown usage)",
+      "key": ""
+    },
+    {
+      "id": 21,
+      "name": "Not used",
+      "key": ""
+    },
+    {
+      "id": 22,
+      "name": "Not used",
+      "key": ""
+    },
+    {
+      "id": 23,
+      "name": "Mythic 5-player Instance",
+      "key": ""
+    },
+    {
+      "id": 24,
+      "name": "Timewalker 5-player Instance",
+      "key": ""
+    }
+  ]
+}
