@@ -1,6 +1,6 @@
 {
   "name": "wow-itemstring",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Consume and manipulate World of Warcraft itemstrings",
   "main": "lib/index.js",
   "scripts": {
@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/NoBreaks/wow-itemstring/issues"
   },
-  "homepage": "https://github.com/NoBreaks/wow-itemstring#readme"
+  "homepage": "https://github.com/NoBreaks/wow-itemstring#readme",
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "node-fetch": "^1.5.3"
+  }
 }
