@@ -10,23 +10,28 @@
     },
     {
       "id": 3,
-      "name": "Agility"
+      "name": "Agility",
+      "primary": true
     },
     {
       "id": 4,
-      "name": "Strength"
+      "name": "Strength",
+      "primary": true
     },
     {
       "id": 5,
-      "name": "Intellect"
+      "name": "Intellect",
+      "primary": true
     },
     {
       "id": 6,
-      "name": "Spirit"
+      "name": "Spirit",
+      "primary": true
     },
     {
       "id": 7,
-      "name": "Stamina"
+      "name": "Stamina",
+      "primary": true
     },
     {
       "id": 12,
@@ -263,6 +268,11 @@
     {
       "id": 70,
       "name": "Unused 12"
+    },
+    {
+      "id": 74,
+      "name": "[Strength or Intellect]",
+      "primary": true
     }
   ]
 }
