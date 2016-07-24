@@ -58,6 +58,7 @@ You also can access the data directly.  The returned object has the structure:
 Once resolved, the item has functions to help you quickly get the data you need most.
 
 * getContext - Returns the difficulty context and additional modifiers, ie: Mythic Titanforged
+* getId - Returns the item id
 * getLevel - Returns the required level of the item
 * getItemLevel - Returns the item level of the item
 * getName - Returns the name of the item
