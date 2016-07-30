@@ -1,0 +1,49 @@
+{
+  "qualities": [
+    {
+      "id": 0,
+      "name": "Poor",
+      "hex": "9d9d9d"
+    },
+    {
+      "id": 1,
+      "name": "Common",
+      "hex": "ffffff"
+    },
+    {
+      "id": 2,
+      "name": "Uncommon",
+      "hex": "1eff00"
+    },
+    {
+      "id": 3,
+      "name": "Rare",
+      "hex": "0070dd"
+    },
+    {
+      "id": 4,
+      "name": "Epic",
+      "hex": "a335ee"
+    },
+    {
+      "id": 5,
+      "name": "Legendary",
+      "hex": "ff8000"
+    },
+    {
+      "id": 6,
+      "name": "Artifact",
+      "hex": "e6cc80"
+    },
+    {
+      "id": 7,
+      "name": "Heirloom",
+      "hex": "e6cc80"
+    },
+    {
+      "id": 8,
+      "name": "WoW Token",
+      "hex": "00ccff"
+    }
+  ]
+}
