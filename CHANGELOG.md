@@ -1,3 +1,11 @@
+<a name"1.0.5"></a>
+### 1.0.5 (2016-09-24)
+
+#### Bug Fixes
+* Added in error handler for nok in success returns of parse
+* Added in function to trim trailing slashes in API query to avoid improper nok result
+
+
 <a name"1.0.4"></a>
 ### 1.0.4 (2016-07-30)
 
