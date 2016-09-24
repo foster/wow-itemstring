@@ -1,3 +1,10 @@
+<a name"1.0.6"></a>
+### 1.0.6 (2016-09-24)
+
+#### Bug Fixes
+* Further fixes to parsing
+
+
 <a name"1.0.5"></a>
 ### 1.0.5 (2016-09-24)
 

@@ -1,6 +1,6 @@
 {
   "name": "wow-itemstring",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Consume and manipulate World of Warcraft itemstrings",
   "main": "lib/index.js",
   "scripts": {
